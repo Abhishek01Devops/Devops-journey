@@ -24,3 +24,4 @@
     - Plain text must be printed using echo
     - Invalid commands cause script failure
 
+<!-- Day 2 notes completed -->
