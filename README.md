@@ -13,3 +13,11 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - chmod +x and numeric permissions (755, 644)
 - Executing shell scripts
 - Handling sensitive files (secrets)
+
+## Day 3: Linux users, groups & security basics
+- Ownership (user/group)
+- chmod & chown
+- Permission denied causes
+- Secret protection
+- Attack simulation
+- Real DevOps security practice
