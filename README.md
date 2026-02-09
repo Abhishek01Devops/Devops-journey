@@ -21,3 +21,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Secret protection
 - Attack simulation
 - Real DevOps security practice
+
+## Day 4: Users-sudo-processes
+ - sudo behavior
+ - executable risk
+ - root vs user
+ - real attack logic
+ - Security Lesson
