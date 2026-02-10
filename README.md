@@ -28,3 +28,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
  - root vs user
  - real attack logic
  - Security Lesson
+ - Processes
+
+ ## Day 5: Processes-monitoring
+ - Process types
+ - Core commands
+ - Job control
+ - Signals
