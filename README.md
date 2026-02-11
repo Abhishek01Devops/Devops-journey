@@ -35,3 +35,15 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
  - Core commands
  - Job control
  - Signals
+
+ ## Day 6: Search-disk-logs
+ - Searching files & content
+ - Disk usage & space analysis
+ - Log creation & simulation
+ - Log compression
+ - Outage & cleanup simulation
+
+
+
+
+
