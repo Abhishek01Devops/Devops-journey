@@ -43,6 +43,17 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
  - Log compression
  - Outage & cleanup simulation
 
+## Day 7: Networking
+- ifconfig → check IP & interface status
+- hostname → identify machine
+- hostname -I → quick IP output
+- ping 8.8.8.8 → test internet (no DNS)
+- ping google.com → test internet + DNS
+- DNS resolution
+  ✔ DNS server testing
+  ✔ Local DNS overrides
+  ✔ Routing table
+  ✔ Traffic path tracing
 
 
 
