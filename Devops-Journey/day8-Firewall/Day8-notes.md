@@ -1,59 +1,21 @@
-# 🚀 Day 8 – Firewalls & Port Security
+#  Day 8 – Firewalls & Port Security
 
-## 🎯 Objective
-Understand:
-- What a firewall is
-- How ports are blocked/allowed
-- Host-based firewall vs Cloud firewall
-- How DevOps secure production servers
+## sudo /usr/libexec/ApplicationFirewall/socketfilterfw --getglobalstate :
+Check if Firewall is ON or OFF .
 
----
+| Output               |      Meaning              |
+| ------------------------------------------------ |
+| Firewall is enabled  -> Protection active        |
+| Firewall is disabled ->  No host-level protection |
 
-# 🔥 1️⃣ What is a Firewall?
+## sudo /usr/libexec/ApplicationFirewall/socketfilterfw --getstealthmode :
+Check Stealth Mode,Stealth mode hides your machine from ping scans.
 
-A firewall controls:
+## sudo /usr/libexec/ApplicationFirewall/socketfilterfw --listapps :
+List Allowed Apps,T his shows which apps are allowed through firewall.
 
-Who can access which port on your machine.
+## On production servers:
+                      firewall OFF   →    uge security risk
+                     If SSH open to public  →  Brute force attacks
+                     If DB port open  →  Data breach
 
-Think of:
-- IP = House
-- Port = Door
-- Firewall = Security Guard
-
-If firewall blocks port 22 → SSH not accessible  
-If firewall allows port 80 → Website accessible  
-
----
-
-# 🧠 2️⃣ Types of Firewalls
-
-## 1. Host-Based Firewall
-Runs on the server itself.
-
-Examples:
-- ufw (Linux)
-- iptables (Linux)
-- pf (macOS)
-- Windows Defender Firewall
-
----
-
-## 2. Network Firewall
-Sits between machines (router / enterprise firewall).
-
----
-
-## 3. Cloud Firewall (Most Important for DevOps)
-
-Examples:
-- AWS Security Groups
-- Azure NSG
-- Google Cloud VPC Firewall
-
-These control traffic to cloud virtual machines.
-
----
-
-# 🔐 3️⃣ macOS Firewall Commands
-
-Check firewall status:

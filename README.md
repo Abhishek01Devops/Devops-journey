@@ -55,6 +55,12 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
   ✔ Routing table
   ✔ Traffic path tracing
 
+  ## Day 8:Firewall and porting
+ - Audited firewall
+ - Enabled protection
+ - Checked stealth mode
+ - Verified SSH status
+
 
 
 
