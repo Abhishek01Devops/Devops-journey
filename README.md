@@ -61,6 +61,14 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
  - Checked stealth mode
  - Verified SSH status
 
+ ## Day 9:ports,sockets and process network
+- Server fundamentals
+- Linux networking basics
+- Web server architecture
+- File system structure
+- Linux permissions model
+- Service lifecycle management
+
 
 
 
