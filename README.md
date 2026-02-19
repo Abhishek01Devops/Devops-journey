@@ -69,6 +69,13 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Linux permissions model
 - Service lifecycle management
 
+## Day 10:Linux+webserver
+- Check Nginx processes
+-  Test the site locally & from Mac
+- Logs
+- Controlled break/fix
+- Document root and permissions
+- Service lifecycle
 
 
 
