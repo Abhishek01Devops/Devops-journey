@@ -77,5 +77,13 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Document root and permissions
 - Service lifecycle
 
+## Day 11 : System-systemctl
+- systemd architecture
+- systemctl usage
+-	Service lifecycle
+-	Start vs Enable
+-	Restart vs Reload
+-	Boot-time services
+
 
 
