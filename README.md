@@ -84,6 +84,12 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 -	Start vs Enable
 -	Restart vs Reload
 -	Boot-time services
+- journalctl
 
+## Day 12 : journalctl-logs
+- journalctl basics  
+- log filtering  
+- real troubleshooting workflow  
+- production debugging mindset
 
 
