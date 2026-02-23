@@ -92,4 +92,12 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - real troubleshooting workflow  
 - production debugging mindset
 
+## Day 13 : service-troubleshooting
+- Structured troubleshooting mindset
+- Service validation using systemctl
+- Log analysis using journalctl
+- Network vs service issue identification
+- File permission troubleshooting
+- End-to-end debugging workflow
+
 
