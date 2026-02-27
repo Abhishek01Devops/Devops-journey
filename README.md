@@ -100,4 +100,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - File permission troubleshooting
 - End-to-end debugging workflow
 
-
+## Day 14 — SSH Architecture
+- What is SSH?
+- SSH Authentication Methods
+- Key-Based Authentication 
+- SSH Key Components
+- Log monitoring
+- Linux security permissions
