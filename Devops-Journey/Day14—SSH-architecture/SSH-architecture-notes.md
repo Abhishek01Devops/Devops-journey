@@ -39,3 +39,68 @@ This confirms remote login.
 - Each login creates a session
 - Remote administration is core DevOps practice
 
+## sudo tail -f /var/log/auth.log :-Monitoring SSH Logs in Real Time
+# Purpose
+- Watches authentication logs live.
+- Displays login activity instantly.
+- Commonly used for security monitoring and troubleshooting.
+
+# SSH Login Flow (Architecture)
+Mac (SSH Client)
+        ↓
+Network Connection (Port 22)
+        ↓
+sshd (SSH Daemon)
+        ↓
+Authentication Check
+        ↓
+Session Creation
+        ↓
+Log Entry Written
+
+## grep sshd /var/log/auth.log :- Filter SSH Entries
+
+## Key Concepts Learned
+- SSH login activity is always logged.
+- Every authentication attempt leaves evidence.
+- Logs help detect unauthorized access.
+- DevOps engineers use logs for troubleshooting and security auditing.
+
+# SSH is not just remote login — it is a tracked and auditable access system.
+
+
+# Why SSH Keys?
+
+Password authentication problems:
+
+- Vulnerable to brute-force attacks
+- Less secure
+- Manual login required
+
+SSH Key Authentication provides:
+
+- Secure login
+- Faster access
+- Industry standard server security
+- Used in AWS, Azure, GCP servers
+
+# SSH Authentication Types
+
+## Password Authentication
+Client → Server → Password verification
+
+## Key-Based Authentication
+Client → Public Key Match → Login Approved
+
+No password required.
+
+# SSH Key Components
+Two files are created:
+Private Key (Keep Secret)
+
+# Cloud servers disable password login and use SSH keys only.
+This improves:
+- Security
+- Automation
+- Infrastructure access control
+
