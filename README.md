@@ -109,3 +109,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Linux security permissions
 
 ## Day 15 : SSH key authentication
+- SSH key pair concept
+- Passwordless authentication
+- authorized_keys usage
+- SSH client configuration
+- Host aliasing
+- Linux user permissions
+- Secure remote access basics
