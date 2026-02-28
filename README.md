@@ -107,3 +107,5 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - SSH Key Components
 - Log monitoring
 - Linux security permissions
+
+## Day 15 : SSH key authentication
