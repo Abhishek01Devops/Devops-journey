@@ -1,3 +1,14 @@
+## What is SSH?
+SSH (Secure Shell) is a protocol used to securely connect to another server over a network.
+# Used for:
+- Remote server login
+- Managing cloud servers
+- DevOps automation
+- Secure file transfer
+	
+* Private Key → stays on your local machine (secret)
+* Public Key → copied to the remote server
+
 ## ls -la ~/.ssh :- SSH Key Files (Client Side)
 Important Files :-
 File             ->        Purpose
@@ -34,3 +45,12 @@ Private key must never be shared.
 - Uses cryptographic verification
 - Resistant to brute-force attacks
 - Industry standard for DevOps and cloud servers
+
+
+## ~/.ssh/config :- Create SSH Host Alias (devops-lab) Configured in:
+* Example:
+Host devops-lab
+HostName 192.168.64.2
+User devops
+IdentityFile ~/.ssh/id_ed25519_lab
+
