@@ -116,3 +116,13 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Host aliasing
 - Linux user permissions
 - Secure remote access basics
+
+## Day 16 — SSH hardening
+- acked up sshd_config
+- Disabled root login
+- Disabled password authentication
+- Verified SSH key-based access
+- Changed SSH port from 22 to 2222
+- Configured UFW for new port
+- Restricted SSH access to devops user
+- Verified secure login and access restrictions
