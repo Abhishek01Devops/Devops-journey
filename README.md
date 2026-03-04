@@ -126,3 +126,12 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Configured UFW for new port
 - Restricted SSH access to devops user
 - Verified secure login and access restrictions
+
+##  Day 17 — UFW Advanced Rules
+- Allow specific IP only
+- Deny specific IP
+- Allow port for specific subnet
+- Limit SSH brute-force attacks
+- Delete rules properly
+- Reset UFW safely
+- Understand rule order
