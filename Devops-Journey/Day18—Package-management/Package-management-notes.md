@@ -87,12 +87,12 @@ Shows all installed software.
 
 ## Quick Revision Notes
 Command                         Use
-apt update          -          Refresh repo list
-apt upgrade         -         Update packages
-apt install         -         Install software
-apt remove.         -         Remove package      
-apt purge           -         Remove package + config
-apt autoremove      -         Remove unused dependencies
-apt search          -         Find package
-apt show            -         Package details
+- apt update          -          Refresh repo list
+- apt upgrade         -         Update packages
+- apt install         -         Install software
+- apt remove.         -         Remove package      
+- apt purge           -         Remove package + config
+- apt autoremove      -         Remove unused dependencies
+- apt search          -         Find package
+- apt show            -         Package details
 
