@@ -135,3 +135,11 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Delete rules properly
 - Reset UFW safely
 - Understand rule order
+
+## Day 18 - Package Managment
+- Linux package management
+- Installing software
+-  Upgrading system packages
+- Removing and purging packages
+- Searching packages in repositories
+- Cleaning unused dependencies
