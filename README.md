@@ -143,3 +143,6 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Removing and purging packages
 - Searching packages in repositories
 - Cleaning unused dependencies
+
+## Day 19 — Environment variables
+-
