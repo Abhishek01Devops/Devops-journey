@@ -145,4 +145,8 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Cleaning unused dependencies
 
 ## Day 19 — Environment variables
--
+- What environment variables are
+- Viewing variables
+- Creating temporary variables
+- Removing variables
+-	Creating permanent variables
