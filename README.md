@@ -150,3 +150,8 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Creating temporary variables
 - Removing variables
 -	Creating permanent variables
+
+## Day 20 - Linux file hirechay
+- Linux directory structure
+- Purpose of major system directories
+- Where logs, configs, and programs are stored
