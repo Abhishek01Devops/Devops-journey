@@ -155,3 +155,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - Linux directory structure
 - Purpose of major system directories
 - Where logs, configs, and programs are stored
+
+## Day 21 - Find command
+- search files efficiently in Linux
+- locate files by name, size, or time
+-	identify large files consuming disk space
+- automate file cleanup
+- execute commands on search results
