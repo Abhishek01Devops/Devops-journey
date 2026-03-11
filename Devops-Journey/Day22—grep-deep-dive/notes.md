@@ -85,3 +85,10 @@ grep can be used with tail to watch logs in real time.
 | `ls -l \| grep ".md"` | filter markdown files |
 | `grep --color "error" file` | highlight matched text |
 | `tail -f app.log \| grep "ERROR"` | monitor logs in real time |
+
+## Common real-world uses:
+- debugging application errors
+- filtering large log files
+- checking running services
+- analyzing authentication logs
+- monitoring production systems
