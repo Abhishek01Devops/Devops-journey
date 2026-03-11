@@ -162,3 +162,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 -	identify large files consuming disk space
 - automate file cleanup
 - execute commands on search results
+
+## Day 22 - Grep deep dive
+- search text inside files
+- analyze large log files
+- filter command outputs
+- combine Linux commands with pipes
+-	monitor logs in real time
