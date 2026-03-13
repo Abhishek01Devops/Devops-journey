@@ -169,3 +169,10 @@ This repository documents my step-by-step journey to becoming a DevOps Engineer.
 - filter command outputs
 - combine Linux commands with pipes
 -	monitor logs in real time
+
+## Day 23- Sed basics
+- perform text replacements using `sed`
+- modify files directly from the terminal
+- print specific lines from files
+- delete unwanted lines
+- automate text editing tasks in DevOps workflows
