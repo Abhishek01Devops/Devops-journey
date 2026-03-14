@@ -1,2 +1,5 @@
-warning connecting to server
-warning reading file
+server started
+database connected
+error: connection failed
+user login success
+error: disk full
