@@ -22,11 +22,11 @@ This prints the **first column** of every line.
 `awk` automatically splits each line into **fields (columns)** using spaces or tabs.
 
 ### Example file
-Name Age City
-Alice 25 London
-Bob 30 Paris
-Charlie 28 Berlin
-David 35 Tokyo
+- Name Age City
+- Alice 25 London
+- Bob 30 Paris
+- Charlie 28 Berlin
+- David 35 Tokyo
 
 ---
 
