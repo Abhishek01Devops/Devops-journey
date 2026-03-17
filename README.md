@@ -25,9 +25,9 @@ A structured, hands-on documentation of my journey to becoming a DevOps Engineer
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [🔐 SSH Key Authentication](https://github.com/Abhishek01Devops/ssh-key-authentication) | Replaced password SSH login with Ed25519 key pair auth, hardened sshd_config | Linux, SSH, UFW |
-| [🌐 Nginx Reverse Proxy](https://github.com/Abhishek01Devops/nginx-reverse-proxy) | Configured Nginx to forward port 80 traffic to a Python backend on port 5000 | Nginx, Python, Linux |
-| [⚙️ Linux Server Setup](https://github.com/Abhishek01Devops/linux-server-setup) | Automated full server provisioning with a single Bash script | Bash, Nginx, UFW, systemctl |
+| [🔐 SSH Key Authentication](Devops-Journey/portfolio-projects/ssh-key-authentication)| Replaced password SSH login with Ed25519 key pair auth, hardened sshd_config | Linux, SSH, UFW |
+| [🌐 Nginx Reverse Proxy](Devops-Journey/portfolio-projects/nginx-reverse-proxy) | Configured Nginx to forward port 80 traffic to a Python backend on port 5000 | Nginx, Python, Linux |
+| [⚙️ Linux Server Setup](Devops-Journey/portfolio-projects/linux-server-setup) | Automated full server provisioning with a single Bash script | Bash, Nginx, UFW, systemctl |
 
 All projects are tested on a real Ubuntu VM with working configurations and verified outputs.
 
