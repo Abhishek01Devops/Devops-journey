@@ -25,11 +25,9 @@ A structured, hands-on documentation of my journey to becoming a DevOps Engineer
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [🔐 SSH Key Authentication](Devops-Journey/portfolio-projects/ssh-key-authentication)| Replaced password SSH login with Ed25519 key pair auth, hardened sshd_config | Linux, SSH, UFW |
-| [🌐 Nginx Reverse Proxy](Devops-Journey/portfolio-projects/nginx-reverse-proxy) | Configured Nginx to forward port 80 traffic to a Python backend on port 5000 | Nginx, Python, Linux |
-| [⚙️ Linux Server Setup](Devops-Journey/portfolio-projects/linux-server-setup) | Automated full server provisioning with a single Bash script | Bash, Nginx, UFW, systemctl |
-
-All projects are tested on a real Ubuntu VM with working configurations and verified outputs.
+| [🔐 SSH Key Authentication](https://github.com/Abhishek01Devops/ssh-key-authentication) | Replaced password SSH login with Ed25519 key pair auth, hardened sshd_config | Linux, SSH, UFW |
+| [🌐 Nginx Reverse Proxy](https://github.com/Abhishek01Devops/nginx-reverse-proxy) | Configured Nginx to forward port 80 traffic to a Python backend on port 5000 | Nginx, Python, Linux |
+| [⚙️ Linux Server Setup](https://github.com/Abhishek01Devops/linux-server-setup) | Automated full server provisioning with a single Bash script | Bash, Nginx, UFW, systemctl |
 
 ---
 
@@ -57,7 +55,7 @@ Phase 7 — Monitoring + Job Hunt       ░░░░░░░░░░░░░�
 | Day 02 | [Linux Permissions](./Devops-Journey/day2-permissions/) | rwx, chmod +x, 755/644, shell scripts |
 | Day 03 | [Users, Groups & Security](./Devops-Journey/day3-users-groups/) | chown, chmod, secret protection, attack simulation |
 | Day 04 | [Users, Sudo & Processes](./Devops-Journey/day4-users-sudo-processes/) | sudo, root vs user, real attack logic |
-| Day 05 | [Process Monitoring](./Devops-Journey/day5-processes-monitoring/) | process types, ps, kill, job control, signals |
+| Day 05 | [Process Monitoring](./Devops-Journey/day5-processes-monitoring/) | ps, kill, job control, signals |
 | Day 06 | [Search, Disk & Logs](./Devops-Journey/day6-search-disk-logs/) | find, df, du, log compression, outage simulation |
 | Day 07 | [Networking](./Devops-Journey/day7-networking/) | ifconfig, ping, DNS, routing table, traceroute |
 | Day 08 | [Firewall & Ports](./Devops-Journey/day8-Firewall/) | UFW, stealth mode, SSH status |
@@ -76,7 +74,7 @@ Phase 7 — Monitoring + Job Hunt       ░░░░░░░░░░░░░�
 | Day 16 | [SSH Hardening](./Devops-Journey/day16-ssh-hardening/) | disable root login, change port, restrict users |
 | Day 17 | [UFW Advanced Rules](./Devops-Journey/day17-ufw-advanced-rules/) | allow/deny IP, subnet rules, brute-force limiting |
 
-### Phase 1 — Advanced Linux Tools (Days 18–24)
+### Phase 1 — Advanced Linux (Days 18–24)
 
 | Day | Topic | Key Concepts |
 |---|---|---|
@@ -121,22 +119,13 @@ Kubernetes              ░░░░░░░░░░░░░░░░  Planne
 
 ---
 
-## 📈 Progress Tracking
+## 📈 Stats
 
-- ✅ Day 01–24 complete — Linux fundamentals, security, networking, system admin, text processing
-- 🔄 Day 25–30 — Bash scripting & automation (in progress)
-- ⏳ Phase 2 — Docker (starting soon)
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishek01Devops-black?style=flat-square&logo=github)](https://github.com/Abhishek01Devops)
-
----
-> "This repository follows a structured, hands-on roadmap aligned with real DevOps engineering practices.
-
-> "The best way to learn DevOps is to do DevOps." — Building in public, one day at a time.
+- 🔥 90+ commits and counting
+- 📁 24 day-folders with real notes and commands
+- 🛠️ 3 portfolio projects shipped
+- 📅 Started: February 2026
+- 🎯 Target: DevOps Engineer by October 2026
 
 
 
