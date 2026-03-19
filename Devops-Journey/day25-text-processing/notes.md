@@ -8,7 +8,7 @@ In this session we practiced real-world text processing using:
 
 These tools are used in DevOps for log analysis and troubleshooting.
 
-⸻
+---
 
 ### Example Log File (server.log)
 
@@ -21,9 +21,9 @@ These tools are used in DevOps for log analysis and troubleshooting.
 - WARNING Memory usage high
 - ERROR Failed password for admin
 
-⸻
+---
 
-grep — Searching Logs
+### grep — Searching Logs
 
 #### grep “ERROR” server.log
 → shows all ERROR lines
@@ -37,7 +37,7 @@ grep — Searching Logs
 grep “INFO” server.log
 grep “WARNING” server.log
 
-⸻
+---
 
 ### awk — Filtering & Extracting Data
 
@@ -57,7 +57,7 @@ grep “WARNING” server.log
 #### awk ‘/INFO/ {print NR,$0}’ server.log
 - → shows line numbers
 
-⸻
+---
 
 ### sed — Modifying Text
 
@@ -67,7 +67,7 @@ grep “WARNING” server.log
 #### sed ‘s/WARNING/NOTICE/g’ server.log
 - → replaces WARNING with NOTICE
 
-⸻
+---
 
 ### ombining Commands (Pipelines)
 
@@ -77,7 +77,7 @@ grep “WARNING” server.log
 #### tail -f server.log | grep “ERROR”
 - → real-time monitoring
 
-⸻
+---
 
 ### Key Concepts
 
@@ -87,7 +87,7 @@ grep “WARNING” server.log
 - /pattern/ → search pattern
 - | → pipe (combine commands)
 
-⸻
+---
 
 ### Summary
 - grep → find data
