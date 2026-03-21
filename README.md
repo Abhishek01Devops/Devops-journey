@@ -85,7 +85,7 @@ Phase 7 — Monitoring + Job Hunt       ░░░░░░░░░░░░░�
 | Day 22 | [Grep Deep Dive](./Devops-Journey/day22-grep-deep-dive/) | regex, log analysis, pipes, real-time monitoring |
 | Day 23 | [Sed Basics](./Devops-Journey/day23-sed-basics/) | text replacement, in-place editing, line deletion |
 | Day 24 | [Awk Basics](./Devops-Journey/day24-awk-basics/) | field extraction, conditions, log analysis, counting |
-| Day 25 | [Text Processing Practice](./Devops-Journey/Day25-text-processing/) | grep, awk, sed combined usage, pipelines, log analysis, real-time monitoring |
+| Day 25 | [Text Processing Practice](./Devops-Journey/day25-text-processing/) | grep, awk, sed combined usage, pipelines, log analysis, real-time monitoring |
 ---
 
 ## 🧰 Skills Acquired
