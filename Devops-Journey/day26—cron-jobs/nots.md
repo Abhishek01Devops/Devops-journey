@@ -30,8 +30,8 @@ Examples:
 ---
 
 ## Step 1 — Create Script
-```bash
-nano script.sh :- 
+# ```bash
+ nano script.sh :- 
 # ADD
 echo "Cron ran at: $(date)" >> /home/devops/Devops-Journey/day26-corn/output.log
 
