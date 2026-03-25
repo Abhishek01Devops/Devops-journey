@@ -23,73 +23,70 @@ These tools are used in DevOps for log analysis and troubleshooting.
 
 ---
 
-### grep — Searching Logs
+# grep — Search Text
 
-#### grep “ERROR” server.log
-→ shows all ERROR lines
+- grep ERROR server.log :- Find ERROR lines
 
-#### grep -i “error” server.log
-→ case insensitive search
+- grep -i error server.log :- Case insensitive search
 
-#### grep -c “ERROR” server.log
-→ count number of ERROR logs
+- grep -n ERROR server.log :- show line number
 
-grep “INFO” server.log
-grep “WARNING” server.log
+- grep -v ERROR server.log :- Invert match (exclude ERROR)
+
+- grep -c ERROR server.log :- Count matches
 
 ---
 
-### awk — Filtering & Extracting Data
+# awk — Column Processing
 
-#### awk ‘/ERROR/ {print $0}’ server.log
-→ prints full ERROR lines
+- awk '{print $1}' server.log :- Print first column
 
-#### awk ‘/Failed/ {print $6}’ server.log
-→ extracts usernames
+- awk '{print $1, $2}' server.log :- Print first and second column
 
-## Output:
-- root
-- admin
+- awk '$1=="ERROR"' server.log :- Filter ERROR using awk
 
-#### awk ‘{print $1}’ server.log
-- → prints log levels
+- awk '{$1=""; print}' server.log :- Remove first column
 
-#### awk ‘/INFO/ {print NR,$0}’ server.log
-- → shows line numbers
+- awk '{print $1}' server.log | sort :- Sort log levels
 
----
+- sort -r server.log :- Reverse sort
 
-### sed — Modifying Text
+- awk '{print $1}' server.log | sort | uniq :- Unique log levels
 
-#### sed ‘s/ERROR/ALERT/g’ server.log
-- → replaces ERROR with ALERT
-
-#### sed ‘s/WARNING/NOTICE/g’ server.log
-- → replaces WARNING with NOTICE
+- awk '{print $1}' server.log | sort | uniq -c :- Count duplicates
 
 ---
 
-### ombining Commands (Pipelines)
+# sed — Modify Text
 
-#### grep “Failed” server.log | awk ‘{print $6}’
-- → extract usernames
+- sed 's/WARNING/ALERT/g' server.log :- Replace WARNING with ALERT
 
-#### tail -f server.log | grep “ERROR”
-- → real-time monitoring
+- sed 's/ERROR/CRITICAL/g' server.log :- Replace ERROR with CRITICAL
 
----
-
-### Key Concepts
-
-- $0 → full line
-- $1 $2 $3 → columns
-- NR → line number
-- /pattern/ → search pattern
-- | → pipe (combine commands)
+- sed '/INFO/d' server.log :- Delete INFO lines
 
 ---
 
-### Summary
-- grep → find data
-- awk → extract data
-- sed → modify data
+# Combined Commands 
+
+- grep ERROR server.log | wc -l :- Count ERROR logs
+
+- awk '{print $1}' server.log | sort | uniq -c :- Count each log level
+
+- awk '{print $1}' server.log | sort | uniq -c | sort -nr :- Sort by highest count
+
+- grep ERROR server.log | tail :- Find last errors
+
+---
+
+## Key Concepts Learned
+
+- grep → search text
+- awk → column processing
+- sed → modify text
+- sort → sorting
+- uniq → remove duplicates
+- pipe (|) → combine commands
+- log analysis for DevOps
+
+---

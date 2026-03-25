@@ -1,8 +1,8 @@
 INFO User login success
-ERROR Failed password for user root
-WARNING Disk usage 90%
-INFO File uploaded
-ERROR Connection timeout
+ERROR Database connection failed
+WARNING Disk space low
 INFO Backup completed
-WARNING Memory usage high
-ERROR Failed password for admin
+ERROR Timeout occurred
+INFO User logout
+WARNING CPU usage high
+ERROR Memory leak detected
