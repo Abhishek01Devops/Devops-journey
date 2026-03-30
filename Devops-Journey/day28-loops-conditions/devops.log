@@ -1,0 +1,312 @@
+------ Mon Mar 30 15:47:18 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:23 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:28 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:33 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:38 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:43 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:48 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:53 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:47:58 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:03 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:08 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:13 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:18 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:23 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:28 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:33 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:38 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:43 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:48 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:53 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:48:59 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:49:04 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:49:09 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+------ Mon Mar 30 15:49:14 IST 2026 ------
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    10Gi   155Gi     7%    426k  1.6G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     228Gi    20Ki   155Gi     1%       0  1.6G    0%   /System/Volumes/VM
+/dev/disk3s2     228Gi   5.8Gi   155Gi     4%     174  1.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4     228Gi   3.7Mi   155Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.6Mi   483Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   904Ki   483Mi     1%      96  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     228Gi    56Gi   155Gi    27%    454k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
