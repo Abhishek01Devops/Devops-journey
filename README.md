@@ -279,8 +279,6 @@ Build a complete end-to-end system: Linux server → Dockerized app → Kubernet
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub Stats](https://streak-stats.demolab.com?user=Abhishek01Devops&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01Devops&theme=tokyonight&hide_border=true)
 
 ---
