@@ -1,3 +1,0 @@
-version from main
-
-version from branch
