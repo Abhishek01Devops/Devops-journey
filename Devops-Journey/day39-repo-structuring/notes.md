@@ -21,7 +21,7 @@ Today we learned:
 - Real industry examples
 
 ---
-s
+
 # 1️⃣ What is Repository Structuring?
 
 Repository structuring means:
