@@ -18,7 +18,6 @@ I'm on a structured 8-month journey to become a DevOps Engineer — building han
 **Learning next:** Docker → CI/CD → AWS → Terraform → Kubernetes
 
 ---
-
 ## 🚀 Portfolio Projects
 
 | Project | What I Built | Tech |
@@ -27,7 +26,7 @@ I'm on a structured 8-month journey to become a DevOps Engineer — building han
 | [SSH Key Authentication](https://github.com/Abhishek01Devops/ssh-key-authentication) | Replaced password login with Ed25519 keys, hardened sshd_config | SSH, Linux, UFW |
 | [Linux Server Setup](https://github.com/Abhishek01Devops/linux-server-setup) | Automated full Ubuntu server provisioning with a Bash script | Bash, Nginx, UFW |
 | [Linux Web Server](https://github.com/Abhishek01Devops/linux-web-server) | Personal portfolio website served over HTTPS with Nginx, SSL, UFW firewall and Bash monitoring on Ubuntu 24.04 | Nginx, SSL, UFW, Bash |
-
+| [GitHub Project](https://github.com/Abhishek01Devops/github-project) | Structured DevOps project with configs, Docker, Kubernetes, Terraform, scripts, and src organized for real-world Git workflow practice | Git, Docker, Kubernetes, Terraform |
 ---
 
 ## 📚 Currently Learning
