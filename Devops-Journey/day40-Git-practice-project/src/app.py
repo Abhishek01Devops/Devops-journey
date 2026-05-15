@@ -1,4 +1,9 @@
-Main Version Update
+print("Starting DevOps Application")
 
-Login Feature Added
+app_name = "DevOps Practice Project"
+version = "1.0"
 
+print(f"Application: {app_name}")
+print(f"Version: {version}")
+
+print("Application deployed successfully")
