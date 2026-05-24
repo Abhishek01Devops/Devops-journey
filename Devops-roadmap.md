@@ -109,7 +109,7 @@ Days 1–10
 - Day 80 — AWS mini project
 - Day 81–90 — Practice + documentation
 
-##📅 MONTH 5 — Docker (Days 91–120)
+## 📅 MONTH 5 — Docker (Days 91–120)
 
 - Day 91 — Container concepts
 - Day 92 — Docker architecture
