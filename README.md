@@ -2,7 +2,7 @@
 
 **DevOps Engineer in Progress | Bengaluru, India**
 
-I'm on a structured 8-month journey to become a DevOps Engineer — building hands-on with real Linux servers, Bash automation, SSH hardening, Nginx, and more. Every day I learn something, I document it and ship it.
+I'm on a structured 10-month journey to become a DevOps Engineer — building hands-on with real Linux servers, Bash automation, SSH hardening, Nginx, and more. Every day I learn something, I document it and ship it.
 
 ---
 
